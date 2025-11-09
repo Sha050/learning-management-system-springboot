@@ -7,14 +7,14 @@ This project demonstrates a clean, production-style architecture using **Spring 
 
 ## 🧩 Tech Stack
 
-**Backend:** Java 17+, Spring Boot, Spring Data JPA, Hibernate  
-**Database:** MySQL *(can be switched to MongoDB)*  
+**Backend:** Java 21, Spring Boot, Spring Data JPA, Hibernate  
+**Database:** MySQL 
 **Build Tool:** Maven  
 **Tools:** Postman, Git, IntelliJ IDEA / VS Code
 
 ---
 
-✅ **Follows SOLID principles**  
+✅ **Follows SOLID principles, Exception handler and proper DTO**  
 ✅ **Layered structure** (Controller → Service → Repository → Model)  
 ✅ **Separation of concerns** for scalability and clarity  
 
